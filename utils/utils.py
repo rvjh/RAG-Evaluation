@@ -6,7 +6,7 @@ logging.basicConfig(
     format="%(asctime)s - %(levelname)s - %(message)s"
 )
 
-def times(func):
+def timed(func):
     def wrapper(*args, **kwargs):
         start = time.time()
         result = func(*args, **kwargs)
