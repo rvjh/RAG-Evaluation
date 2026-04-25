@@ -31,6 +31,11 @@ Build and evaluate a lightweight RAG system that can:
 - `data/documents/` - Source knowledge documents
 - `data/golden_dataset.json` - Ground-truth Q&A for evaluation
 
+![Terminal or Commandline ](image/RAG Evaluation 1.png)
+
+![Streamlit UI](image/RAG Evaluation 2.png)
+
+
 ## Procedures
 
 ### 1) Prerequisites
