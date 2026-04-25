@@ -1,0 +1,22 @@
+[
+    {
+        "question": "What are neural networks?",
+        "ground_truth": "Neural networks are computing systems inspired by the brain."
+    },
+    {
+        "question": "What is backpropagation used for?",
+        "ground_truth": "Backpropagation is used to train neural networks."
+    },
+    {
+        "question": "What is encryption used for?",
+        "ground_truth": "Encryption secures sensitive data."
+    },
+    {
+        "question": "What is phishing?",
+        "ground_truth": "Phishing is a common cyber attack."
+    },
+    {
+        "question": "Why are GPUs important in AI?",
+        "ground_truth": "GPUs accelerate neural network training."
+    }
+]

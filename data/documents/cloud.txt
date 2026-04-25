@@ -1,0 +1,10 @@
+Cybersecurity protects systems from digital attacks.
+Encryption secures sensitive data.
+Firewalls monitor incoming and outgoing traffic.
+Phishing is a common cyber attack.
+Multi-factor authentication improves security.
+Zero trust assumes no implicit trust.
+Cloud security is essential in modern systems.
+Penetration testing identifies vulnerabilities.
+Malware includes viruses and ransomware.
+Security patches fix software vulnerabilities.

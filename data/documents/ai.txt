@@ -1,0 +1,10 @@
+Neural networks are computing systems inspired by the brain.
+They consist of layers of neurons that transform inputs into outputs.
+Deep learning is a subset of machine learning using deep neural networks.
+Backpropagation is used to train neural networks.
+Activation functions introduce non-linearity.
+Gradient descent optimizes model parameters.
+AI models require large datasets.
+Data preprocessing improves model performance.
+GPUs accelerate neural network training.
+Transformers are widely used in NLP.
